@@ -1,0 +1,4 @@
+-Create database named lostFound
+-Update database connection strings
+-import lostFound.sql
+-run mavern project

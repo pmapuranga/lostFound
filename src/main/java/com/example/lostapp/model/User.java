@@ -31,12 +31,6 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 import javax.persistence.*;
 
 import java.util.Date;
-
-/**
- * The type User.
- *
- * @author Givantha Kalansuriya
- */
 @Entity
 @Table(name = "users")
 @EntityListeners(AuditingEntityListener.class)
